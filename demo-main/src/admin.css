@@ -1,0 +1,11 @@
+@config "./tailwind.admin.config.js";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "tailwindcss/base";
+@import "./custom-base.css";
+@import "tailwindcss/components";
+@import "./custom-components.css";
+@import "tailwindcss/utilities";
